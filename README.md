@@ -43,7 +43,9 @@ url | Source product page |
 
 ## 📁 Project Structure
 
-├── .venv/                     # Local Python environment (ignored by Git)
+```text
+.
+├── .venv/                     # Local Python environment
 ├── data/
 │   ├── raw/
 │   │   └── fra_perfumes.csv   # Original dataset
@@ -58,6 +60,7 @@ url | Source product page |
 ├── LICENSE
 ├── README.md
 └── requirements.txt
+```
 
 ## 📈 Outcome
 
